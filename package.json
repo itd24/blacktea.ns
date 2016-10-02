@@ -18,8 +18,9 @@
     "namespacing"
   ],
   "licenses": [
-  {
-    "type": "MIT",
-    "url": "https://github.com/itd24/blacktea.ns/blob/master/LICENSE"
-  }
-],
+    {
+      "type": "MIT",
+      "url": "https://github.com/itd24/blacktea.ns/blob/master/LICENSE"
+    }
+  ]
+}
