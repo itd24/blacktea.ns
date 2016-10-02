@@ -45,6 +45,10 @@ Ns.modules.require('module.libraries.namespace..library2'); //translates to requ
 ```
 As you may have guessed by now, you escape a dot with a double dot.
 
+## Release History
+
+* 0.1.0 Initial release
+
 ## Licence
 
 Blacktea.ns is released under the [MIT License](http://www.opensource.org/licenses/MIT).
