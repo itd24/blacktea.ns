@@ -1,0 +1,21 @@
+{
+  "name": "blacktea.ns",
+  "version": "1.0.0",
+  "description": "A small namespacing library",
+  "main": "index.js",
+  "engines": {
+    "node": "4.1.2",
+    "npm": "3.3.9"
+  },
+  "author": {
+    "name": "itd24",
+    "email": "ziga.petek2@gmail.com"
+  },
+  "keywords": [
+    "blacktea",
+    "ns",
+    "namespace",
+    "namespacing"
+  ],
+  "license": "MIT"
+}
