@@ -6,13 +6,16 @@ It converts **require** statements like this:
 <br/>
 `require('../../core/modules/someModule/libraries/someLibrary')`
 <br/>
+<br/>
 into this:
 <br/>
 `ns.require('modules.someModule.libraries.someLibrary')`
 <br/>
+<br/>
 or, if you really want, into this:
 <br/>
 `ns.require('someModuleLibraries.someLibrary')`
+<br/>
 <br/>
 It is up to the developer, how to define the namespaces.
 This plugin was created, because I hated the long paths I had to use in my required statements and I didn't bother to check, 
