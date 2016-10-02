@@ -1,6 +1,6 @@
 {
   "name": "blacktea.ns",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small namespacing library",
   "main": "index.js",
   "engines": {
